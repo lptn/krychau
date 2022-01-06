@@ -1,6 +1,5 @@
 ---
-layout: layouts/blog.jpg
-layout: layouts/blog.jpg
+layout: layouts/blog.njk
 title: Артыкулы
 date: 2017-01-01
 permalink: /blog/index.html
