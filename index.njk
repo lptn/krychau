@@ -24,10 +24,13 @@ section: home
   </div>
 
   <hr>
+  {% set prismlist = prisms %}
+  {% include "components/prismlist.njk" %}
+
+  <hr>
   <h2>Праекты</h2>
   {% set projectlist = collections.project %}
   {% include "components/projectlist.njk" %}
-
 
   <hr>
   <h2>Артыкулы</h2>

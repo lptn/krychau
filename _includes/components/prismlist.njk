@@ -1,0 +1,7 @@
+<section>
+	{% for prism in prismlist %}
+    {% if limit === undefined or loop.index0 < limit %}
+      {% include "components/prism.njk" %}
+    {% endif %}
+	{% endfor %}
+</section>
