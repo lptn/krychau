@@ -1,7 +1,7 @@
 ---
 section: contact
 layout: layouts/contact.njk
-title: Get in touch
+title: Кантакты
 date: 2018-01-01
 permalink: /contact/index.html
 metaDescription: This is a sample meta description. If one is not present in
@@ -10,7 +10,7 @@ metaDescription: This is a sample meta description. If one is not present in
 subtitle: Contact Subtitle
 eleventyNavigation:
   key: Кантакты
-  order: 4
+  order: 2
 ---
 
 The contact form on this page uses [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process submissions,
