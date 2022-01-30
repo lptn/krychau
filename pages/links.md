@@ -1,11 +1,9 @@
 ---
-section: contact
-layout: layouts/post.njk
 title: Пра нас пішуць
+subtitle:
+metaDescription:
 date: 2022-01-31
 permalink: /links/index.html
-metaDescription: 
-subtitle: Contact Subtitle
 eleventyNavigation:
   key: Пра нас пішуць
   order: 4

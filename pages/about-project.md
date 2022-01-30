@@ -1,6 +1,6 @@
 ---
 title: Аб праекце
-subtitle: ""
+subtitle:
 metaDescription: Аб праекце
 date: 2022-01-31T00:00:00.000Z
 permalink: /about/index.html
